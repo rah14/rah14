@@ -63,7 +63,6 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 ![Java](https://img.shields.io/badge/-Java%20-000000?style=flat&logo=java&labelColor=000000)
 ![Angular](https://img.shields.io/badge/-Angular-000000?style=flat&logo=Angular&logoColor=5466b8&labelColor=ffffff)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgreSQL&labelColor=ffffff)
-![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=laravel&logoColor=ffffff&labelColor=FF2D20)
 
 
 <!-- ✅  **GitHub Extra Pins**
