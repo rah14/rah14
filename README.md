@@ -11,8 +11,8 @@ https://simpleicons.org/
 <br>
 <br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Rahul%20Kumar-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/rahul-kumar-48a5b211b/)
-[![Mail](https://img.shields.io/badge/rkofficial4@gmail.com-blue?logo=Gmail&logoColor=red&labelColor=black)](mailto:rkofficial4@gmail.com)
-[![Medium](https://medium.com/@rahulkr9)
+[![Mail](https://img.shields.io/badge/Gmail-rkofficial4@gmail.com-blue?logo=Gmail&logoColor=red&labelColor=black)](mailto:rkofficial4@gmail.com)
+[![Linkedin](https://img.shields.io/badge/Medium-Rahul%20Kumar-white?logo=Medium&logoColor=white&labelColor=black)]()
 <br>
 
 <h2 align='center'><samp><strong>Hi there 👋, I am Rahul Kumar</strong></samp></h2>
